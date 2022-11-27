@@ -1,2 +1,2 @@
-<h1>Projeto PHP App Web Super Gestão</h1>
+<h3>Projeto PHP - Curso de densenvolvimento de um aplicativo web de Gestão</h3>
 
